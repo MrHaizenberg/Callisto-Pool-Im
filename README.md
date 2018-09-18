@@ -64,9 +64,9 @@ This will install the latest nodejs
 
 ### Install multi-geth
 
-    $ wget https://github.com/cyber-chip/Callisto-Pool/blob/master/multi-geth-linux-v1.8.10.zip
-    $ unzip multi-geth-linux-v1.8.10.zip
-    $ sudo mv geth /usr/local/bin/geth
+$ wget https://github.com/cyber-chip/Callisto-Pool/blob/master/multi-geth-linux.zip
+$ unzip multi-geth-linux.zip
+$ sudo mv geth /usr/local/bin/geth
 
 ### Run multi-geth
 

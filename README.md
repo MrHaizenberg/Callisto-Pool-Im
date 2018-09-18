@@ -69,7 +69,7 @@ $ wget https://github.com/cyber-chip/Callisto-Pool/blob/master/multi-geth-linux.
 $ unzip multi-geth-linux.zip
 
 $ sudo mv geth /usr/local/bin/geth
-
+*******************************************************************
 ### Run multi-geth
 
 If you use Ubuntu, it is easier to control services by using serviced.

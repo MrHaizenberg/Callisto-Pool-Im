@@ -46,6 +46,10 @@ Dependencies:
 ### Install redis-server
 
     $ sudo apt-get install redis-server
+    
+    Проверим как работает redis server, для этого запустим его.
+
+    $ redis-server
 
 It is recommended to bind your DB address on 127.0.0.1 or on internal ip. Also, please set up the password for advanced security!!!
 

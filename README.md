@@ -64,7 +64,7 @@ This will install the latest nodejs
 
 ### Install multi-geth
 
-$ wget https://github.com/ethoxy/multi-geth/releases/download/v1.8.10/multi-geth-linux.zip
+$ wget https://github.com/ethoxy/multi-geth/releases/download/v1.8.15/multi-geth-linux.zip
 
 $ unzip multi-geth-linux.zip
 
